@@ -64,7 +64,7 @@ Encapsulation, Inheritance, Polymorphism, Abstraction.
 * Running the Application
 
   1)Clone the repository:
-    git clone https://github.com/your-repo/library-management-system.git
+    git clone https://github.com/harshloshali/library-management-system.git
     cd library-management-system
   2)Compile and Run
     
